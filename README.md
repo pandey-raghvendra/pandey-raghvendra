@@ -1,6 +1,6 @@
 ## Hey, I'm Raghvendra 👋
 
-**DevOps / SRE / Platform Engineer** with X+ years of experience 
+**DevOps / SRE / Platform Engineer** with 9+ years of experience 
 building and scaling cloud infrastructure in production.
 
 ### What I work with
