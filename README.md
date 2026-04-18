@@ -24,6 +24,7 @@ from provisioning clusters to designing CI/CD workflows and observability system
 ### Projects
 - 🔨 [wordpress-fargate](https://github.com/pandey-raghvendra/wordpress-fargate) — Terraform modules for deploying WordPress on AWS Fargate
 - 🐳 [wordpress-docker](https://github.com/pandey-raghvendra/wordpress-docker) — Dockerized WordPress with Jenkins CI/CD and CodeDeploy
+- https://infrasketch.cloud
 
 ---
 
