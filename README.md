@@ -11,6 +11,9 @@
   <a href="https://infrasketch.cloud">
     <img src="https://img.shields.io/badge/InfraSketch-06d6a0?style=flat&logoColor=white"/>
   </a>
+  <a href="https://github.com/pandey-raghvendra/osmo">
+    <img src="https://img.shields.io/github/stars/pandey-raghvendra/osmo?style=social"/>
+  </a>
 </p>
 
 ---
@@ -19,7 +22,10 @@
 
 I build infrastructure that's reliable, automated, and developer-friendly — from provisioning clusters to CI/CD workflows, service mesh migrations, and full-stack observability.
 
-Currently focused on: **[InfraSketch](https://infrasketch.cloud)** — a browser-based tool that turns Terraform, Terragrunt, and docker-compose configs into architecture diagrams instantly. No install, no account.
+Currently focused on:
+
+- **[InfraSketch](https://infrasketch.cloud)** — browser-based tool that turns Terraform, Terragrunt, and docker-compose configs into architecture diagrams instantly. No install, no account.
+- **[osmo](https://github.com/pandey-raghvendra/osmo)** — CLI that detects Terraform drift and rewrites `.tf` files so config follows reality. Provenance-traced, verify-with-rollback, CI-ready JSON output.
 
 ---
 
@@ -48,8 +54,9 @@ Currently focused on: **[InfraSketch](https://infrasketch.cloud)** — a browser
 
 ### Projects
 
-| Project | Description |
+| Project | What it does |
 |---|---|
+| **[osmo](https://github.com/pandey-raghvendra/osmo)** | Terraform drift absorber — rewrites `.tf` to match reality, with provenance tracing, verify+rollback, and CI JSON output |
 | [infrasketch.cloud](https://infrasketch.cloud) | Terraform → architecture diagram, in the browser |
 | [wordpress-fargate](https://github.com/pandey-raghvendra/wordpress-fargate) | Terraform modules for WordPress on AWS Fargate |
 | [wordpress-docker](https://github.com/pandey-raghvendra/wordpress-docker) | Dockerized WordPress with Jenkins CI/CD + CodeDeploy |
@@ -57,6 +64,6 @@ Currently focused on: **[InfraSketch](https://infrasketch.cloud)** — a browser
 ---
 
 <p align="center">
-  Open to DevOps · SRE · Platform Engineering roles &nbsp;·&nbsp; India · Remote<br/>
+  Open to DevOps · SRE · Platform Engineering roles &amp;nbsp;·&amp;nbsp; India · Remote<br/>
   <a href="https://www.linkedin.com/in/raghvendra-pandey-er">LinkedIn</a>
 </p>
