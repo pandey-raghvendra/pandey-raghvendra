@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/InfraSketch-06d6a0?style=flat&logoColor=white"/>
   </a>
   <a href="https://github.com/pandey-raghvendra/osmo">
-    <img src="https://img.shields.io/github/stars/pandey-raghvendra/osmo?style=social"/>
+    <img src="https://img.shields.io/badge/OSMO-06d6a0?style=flat&logoColor=white"/>
   </a>
 </p>
 
